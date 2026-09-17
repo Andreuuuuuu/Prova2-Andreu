@@ -42,7 +42,7 @@ Aquest document és una **prova** de la sintaxi bàsica de *Markdown*. L'objecti
 
 ## 5. Imatge local (dins del directori img)
 
-![La meva imatge local](img/images.jpeg)
+![La meva imatge local](./img/images.jpeg)
 
 ## 6. Taula
 
